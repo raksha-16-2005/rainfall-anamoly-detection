@@ -1,0 +1,42 @@
+================================================================================
+TEST CASES - ACTUAL vs PREDICTED RAINFALL
+================================================================================
+
+Test Case 1:
+Anantnag
+May 2024
+Actual : 15.4 mm
+Pred : 9.4 mm
+Accuracy : 61.1%
+
+Test Case 2:
+Kollam
+Dec 2025
+Actual : 11.3 mm
+Pred : 6.8 mm
+Accuracy : 60.5%
+
+Test Case 3:
+Kakinada
+Dec 2025
+Actual : 10.9 mm
+Pred : 5.8 mm
+Accuracy : 53.6%
+
+Test Case 4:
+Bilaspur
+Jan 2024
+Actual : 11.0 mm
+Pred : 5.5 mm
+Accuracy : 50.2%
+
+Test Case 5:
+Thiruvananthapuram
+Dec 2025
+Actual : 27.4 mm
+Pred : 12.2 mm
+Accuracy : 44.7%
+
+================================================================================
+✅ Generated 5 test cases
+================================================================================
