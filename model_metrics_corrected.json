@@ -1,0 +1,19 @@
+{
+  "tp": 28263,
+  "tn": 278747,
+  "fp": 250484,
+  "fn": 0,
+  "accuracy": 0.550697,
+  "precision": 0.101393,
+  "recall": 1.0,
+  "sensitivity": 1.0,
+  "f1_score": 0.184118,
+  "error_rate": 0.449303,
+  "auc": 1.0,
+  "specificity": 0.526702,
+  "false_positive_rate": 0.473298,
+  "false_negative_rate": 0.0,
+  "total_samples": 557494,
+  "anomalies": 28263,
+  "normal": 529231
+}
